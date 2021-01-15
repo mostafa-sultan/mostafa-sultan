@@ -4,7 +4,6 @@ I am studying computer science at Faculty of Computers & Information. I am Full 
 
 - 🔭 I’m currently working by NodeJS/ExpressJS/MongoDB/reactjs
 - 🌱 I’m currently learning Machine learning | Full Stack Web development | Algorithm
-- 👯 I’m looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: “First, solve the problem. Then, write the code.” – John Johnson.
 - 📫 How to reach me:
