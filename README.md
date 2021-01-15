@@ -21,6 +21,9 @@ I am studying computer science at Faculty of Computers & Information. I am Full 
 <a href="https://github.com/mostafa-sultan/">
   <img align="left" alt="Mostafa Sultan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://stackoverflow.com/users/13516633/mostafa-soltan">
+  <img align="left" alt="Mostafa Sultan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
 <br><br>
   <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
