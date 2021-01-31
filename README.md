@@ -20,6 +20,4 @@ I am studying computer science at Faculty of Computers & Information. I am Full 
   <img align="left" alt="Mostafa Sultan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
   
-  
-  
-![github stats](https://github-readme-stats.vercel.app/api?username=mostafa-sultan&show_icons=true&theme=dark)
+   
