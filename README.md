@@ -1,9 +1,10 @@
 ## Hello World ! 
 I am studying computer science at Faculty of Computers & Information. 
+
 I'm full stack developer interested in web technologies and mobile applications
--publish apps in Google play
--publish technical articles on my blog("devs")
--make some videos on YouTube
+*  publish apps in Google play
+*  publish technical articles on my blog("devs")
+*  make some videos on YouTube
 
 - I’m currently working by NodeJS/ExpressJS/MongoDB/reactjs/react nativ/php(laravel)/Android sdk
 - How to reach me: 
