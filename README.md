@@ -4,11 +4,10 @@ I am studying computer science at Faculty of Computers & Information.
 I'm full stack developer interested in web technologies and mobile applications
 *  publish apps in Google play
 *  publish technical articles on my blog("devs")
-*  make some videos on YouTube
-
-- I’m currently working by NodeJS/ExpressJS/MongoDB/reactjs/react nativ/php(laravel)/Android sdk
+*  make some videos on YouTube 
+- Stack NodeJS/ExpressJS/MongoDB/reactjs/react native/php(laravel)/Android sdk
 - How to reach me: 
-
+- [====Site](https://devss.netlify.app/)
 <a href="https://stackoverflow.com/users/13516633/mostafa-soltan">
   <img align="left" alt="Mostafa Sultan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
