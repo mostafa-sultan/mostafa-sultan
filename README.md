@@ -1,7 +1,7 @@
 ## Hello World ! 
 I am studying computer science at Faculty of Computers & Information. 
 
-I'm full stack developer interested in web technologies and mobile applications
+I'm full stack developer  
 *  publish apps in Google play
 *  publish technical articles on [Devs](https://devss.netlify.app/)
 *  make tech videos on YouTube 
