@@ -20,7 +20,7 @@ I'm full stack developer
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=meomnzak&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa142" /> 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=mostafa-sultan&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa142" /> 
   </p>
 
 <br>
@@ -51,16 +51,16 @@ I'm full stack developer
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=meomnzak&show_icons=true&hide=stars&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="meomnzak"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-sultan&show_icons=true&hide=stars&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="mostafa-sultan"
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meomnzak&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="meomnzak" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-sultan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="mostafa-sultan" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meomnzak&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&" alt="meomnzak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-sultan&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&" alt="mostafa-sultan" /></p>
 
 <br>
    
